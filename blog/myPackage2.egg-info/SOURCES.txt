@@ -1,0 +1,7 @@
+setup.py
+migrations/0001_initial.py
+migrations/__init__.py
+myPackage2.egg-info/PKG-INFO
+myPackage2.egg-info/SOURCES.txt
+myPackage2.egg-info/dependency_links.txt
+myPackage2.egg-info/top_level.txt
